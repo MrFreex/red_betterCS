@@ -1,0 +1,14 @@
+{
+  "name": "red_bettercs",
+  "version": "1.0.0",
+  "description": "Automates c# compiling",
+  "main": "automate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MrFreex#2443",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
