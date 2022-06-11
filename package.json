@@ -7,7 +7,7 @@
 
   },
   "author": "MrFreex#2443",
-  "license": "OS",
+  "license": "CC-BY-NC-4.0",
   "dependencies": {
     "express": "^4.18.1"
   }
